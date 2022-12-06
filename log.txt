@@ -1,0 +1,17 @@
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+INSERT INTO log VALUES( '',  )
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+INSERT INTO log VALUES( '',  )
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+UPDATE log SET 'datetime'=' 2022-11-17 17:23:22', 'aplikasi'='  Print KTM_M_M', 'keterangan'='  user oliver - melakukan print - mahasiswa NIM:431111115 | NAMA:nama 5 | ALAMAT:Jl.Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat' WHERE 'id'=69 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+UPDATE log SET 'datetime'=' 2022-11-17 17:23:22', 'aplikasi'='  Print KTM_M_M', 'keterangan'='  user oliver - melakukan print - mahasiswa NIM:431111115 | NAMA:nama 5 | ALAMAT:Jl.Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat' WHERE 'id'=69 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+UPDATE log SET 'datetime'=' 2022-11-17 17:23:22', 'aplikasi'='  Print KTM_M_M', 'keterangan'='  user oliver - melakukan print - mahasiswa NIM:431111115 | NAMA:nama 5 | ALAMAT:Jl.Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat' WHERE 'id'=69 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+UPDATE log SET datetime=' 2022-11-17 17:23:22', aplikasi='   Print KTM_MMMMM', keterangan='user patrick - melakukan print - mahasiswa NIM:431111114 | NAMA:nama 4 | ALAMAT:Jl.Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat Alamat' WHERE id=69 
